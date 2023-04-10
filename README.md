@@ -11,8 +11,8 @@ Simple Android app based on Firebase notification to test simple push notificati
 
 * Once you send it should appear as below if you are in-app
 
-![Enter Token](/README_resources/app_1.png "Enter Token")
+![Enter Token](/README_resources/app_2.png "Enter Token")
 
 * And should appear as below in notification center
 
-![Enter Token](/README_resources/app_1.png "Enter Token")
+![Enter Token](/README_resources/app_3.png "Enter Token")
